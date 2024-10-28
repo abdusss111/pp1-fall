@@ -10,7 +10,7 @@ int main()
     for(int i = 1; i <= n; i++)
         cin>>a[i];
     
-
+    
     for(int i = 1; i < l; i++)
         cout<<a[i]<<" ";
     for(int i = r; i >= l; i--)
